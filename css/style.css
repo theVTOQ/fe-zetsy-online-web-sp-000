@@ -1,13 +1,24 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+.header {
+	color: rgb(111,127, 122);
+}
 
+h1 {
+	font-size: 5em;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 2em;
+}
 /*////////// Global Styles //////////*/
 
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +29,19 @@ body {
 }
 
 /* Write all remaining styles here */
+/*#center-image {
+	border: 5px solid green;
+}*/
+.border {
+	border-width: 5px;
+	border-color: rgb(152,173,166);
+	border-style: solid;
+}
+
+.row {
+	display: inline-block;
+}
+
+#row img {
+	border: 5px rgb(111, 127, 122) solid;
+}
