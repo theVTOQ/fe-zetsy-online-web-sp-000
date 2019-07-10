@@ -22,7 +22,7 @@ body {
 	border: 5px solid green;
 }*/
 .border {
-	border-width: 5px;
+	border-width: 25px;
 	border-color: green;
 	border-style: solid;
 }
