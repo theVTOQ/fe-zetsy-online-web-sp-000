@@ -1,7 +1,11 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+h1 {
+	font-size: 5em;
+	font-weight: normal;
+	color: rgb(111,127, 122);
+}
 /*////////// Global Styles //////////*/
 
 body {
