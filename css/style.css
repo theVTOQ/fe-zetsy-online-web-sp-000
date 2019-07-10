@@ -37,3 +37,7 @@ body {
 	border-color: green;
 	border-style: solid;
 }
+
+.row {
+	display: inline-block;
+}
