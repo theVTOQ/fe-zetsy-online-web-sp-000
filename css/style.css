@@ -21,7 +21,7 @@ body {
 /*#center-image {
 	border: 5px solid green;
 }*/
-img {
+.border {
 	border-width: 5px;
 	border-color: green;
 	border-style: solid;
