@@ -41,3 +41,7 @@ body {
 .row {
 	display: inline-block;
 }
+
+.row img {
+	border: 5px rgb(111, 127, 122) solid;
+}
