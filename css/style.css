@@ -42,6 +42,6 @@ body {
 	display: inline-block;
 }
 
-.row img {
+.row a img {
 	border: 5px rgb(111, 127, 122) solid;
 }
